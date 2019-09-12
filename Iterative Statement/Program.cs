@@ -12,7 +12,7 @@ namespace Iterative_Statement
     {
         static void Main(string[] args)
         {
-            //asks the user for input
+            //asks the user for input 
             Console.WriteLine("Please enter an integer value between 1 and 100. ");
             try
             {
